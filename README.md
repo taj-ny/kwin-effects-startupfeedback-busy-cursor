@@ -1,5 +1,5 @@
 # kwin-effects-startupfeedback-busy-cursor
-A fork of the KWin Startup Feedback effect for KDE Plasma 6 with the ability to use the busy/wait cursor instead of drawin the program icon.
+A fork of the KWin Startup Feedback effect for KDE Plasma 6 with the ability to use the busy/wait cursor instead of drawing the program icon.
 
 This effect only works on Wayland.
 
