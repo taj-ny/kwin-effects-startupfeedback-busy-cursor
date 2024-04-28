@@ -1,0 +1,18 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "KWin development team"
+            },
+            {
+                "Name": "taj_ny"
+            }
+        ],
+        "Category": "Appearance",
+        "Description": "Use the busy/wait cursor as launch feedback",
+        "EnabledByDefault": false,
+        "License": "GPL",
+        "Name": "Startup Feedback (Busy Cursor)"
+    },
+    "X-KDE-ConfigModule": "kwin_startupfeedback_busy_cursor_config"
+}
